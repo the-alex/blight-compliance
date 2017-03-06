@@ -1,5 +1,12 @@
 # blight-compliance
 
+
+## TODO
+
+- [ ] Refactor Preprocessing code into single preprocessing script.
+- [ ] Set up instructions for interactive flux (notebook) job.
+
+
 Forked version of starter script repo for [https://inclass.kaggle.com/c/detroit-blight-ticket-compliance](MDST Blight Ticket Compliance Challenge)
 
 #### To run `starter_script.py`
