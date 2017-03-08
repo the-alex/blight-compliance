@@ -1,4 +1,3 @@
-%%time
 # Open data files
 path = "./data/"
 

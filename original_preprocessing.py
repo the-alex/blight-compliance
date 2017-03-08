@@ -12,7 +12,7 @@ def preprocessing(train, test):
     drop_cols = [
         'inspector_name',
         'violator_name',
-        'violation_zip_code',
+        # 'violation_zip_code',
         'violation_street_number',
         'violation_street_name',
         'mailing_address_str_number',
